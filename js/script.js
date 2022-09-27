@@ -5,7 +5,9 @@ function getDays(month, year) {
 
 //console.log(new Date());
 
-getDays(1, 2022);
+getDays(2, 2024);
+
+//Esercizio base
 
 function todaysDate() {
   let today = new Date();
